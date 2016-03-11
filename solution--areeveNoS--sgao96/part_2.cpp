@@ -3,7 +3,7 @@
                         Shang Gao <sgao96@csu.fullerton.edu>
 * Released under the [MIT License] (http://opensource.org/licenses/MIT)
 * ------------------------------------------------------------------------- */
-//this program is an example of how to use function templates
+//this program is an example of how to use function and class templates
 
 #include<iostream>
 #include "keyboardKey.h"
